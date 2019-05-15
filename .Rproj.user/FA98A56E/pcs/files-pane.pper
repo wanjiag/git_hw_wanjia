@@ -1,0 +1,13 @@
+{
+    "path" : "~/Oregon/2019Spring/PSY607DataScience/git_practice_wanjia/git_hw_wanjia/CO2/Mississippi",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
