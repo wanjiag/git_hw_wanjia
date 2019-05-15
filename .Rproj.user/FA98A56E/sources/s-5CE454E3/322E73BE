@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557887021980.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "322E73BE",
+    "lastKnownWriteTime" : 33495968911392884,
+    "last_content_update" : 1557887021980,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B4DC9A54",
+        "caption" : "CO2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CO2&cache_key=B4DC9A54",
+        "displayedObservations" : 84,
+        "environment" : "",
+        "expression" : "CO2",
+        "object" : "CO2",
+        "preview" : 0,
+        "totalObservations" : 84,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
