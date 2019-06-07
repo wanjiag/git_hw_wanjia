@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559888457644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1589089999",
+    "id" : "E33C937C",
+    "lastKnownWriteTime" : 1559888484,
+    "last_content_update" : 1559888484044,
+    "path" : "~/Oregon/2019Spring/PSY607DataScience/git_practice_wanjia/git_hw_wanjia/news.Rmd",
+    "project_path" : "news.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
