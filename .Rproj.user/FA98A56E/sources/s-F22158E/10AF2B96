@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559877101118.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3309365407",
+    "id" : "10AF2B96",
+    "lastKnownWriteTime" : 1559878389,
+    "last_content_update" : 1559878389335,
+    "path" : "~/Oregon/2019Spring/PSY607DataScience/git_practice_wanjia/git_hw_wanjia/posters.Rmd",
+    "project_path" : "posters.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

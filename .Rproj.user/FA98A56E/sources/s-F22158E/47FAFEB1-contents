@@ -1,0 +1,12 @@
+
+name: "wanjias-website"
+output_dir: "."
+navbar:
+  title: "Wanjia Guo"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research Experiences"
+      herf: experiences.html
+    - test: "Posters"
+      herf: posters.html

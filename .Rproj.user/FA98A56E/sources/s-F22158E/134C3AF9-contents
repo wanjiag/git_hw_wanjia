@@ -1,0 +1,17 @@
+
+name: "wanjias-website"
+output_dir: "."
+navbar:
+  title: "Wanjia Guo"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "experiences"
+      href: experiences.html
+    - text: "Posters"
+      href: posters.html
+      
+output:
+  html_document:
+    theme: flatly
+    css: style.css
