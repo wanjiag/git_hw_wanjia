@@ -15,3 +15,9 @@ title: "About me"
 
 
 #### I am currently working on how pattern differentation happens in the hippocampus with fMRI. I use Python and R for data collection and analysis. Outside the lab, I enjoy cooking, (failing at) baking (and trying again), and hiking.
+
+
+output:
+  html_document:
+    theme: paper
+    css: style.css

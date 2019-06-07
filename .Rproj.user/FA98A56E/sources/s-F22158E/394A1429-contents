@@ -18,3 +18,8 @@ title: "Research Experiences"
 ### 2012 - 2016: Undergraduate Student
 
 #### Advisor: Brad Postle. Psychology and Neurobiology Major, University of Wisconsin-Madison.
+
+output:
+  html_document:
+    theme: paper
+    css: style.css
