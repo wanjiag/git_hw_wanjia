@@ -6,12 +6,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "experiences"
-      href: experiences.html
-    - text: "Posters"
-      href: posters.html
-    
-    
+    - text: "CV"
+      href: CV.html
+    - text: "Resources"
+      href: resources.html
+    - text: "News"
+      href: news.html
+    - text: "Gallery"
+      href: gallery.html
 
 
 output:

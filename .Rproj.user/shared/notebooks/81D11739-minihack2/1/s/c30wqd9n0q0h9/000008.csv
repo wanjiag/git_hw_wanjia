@@ -1,8 +1,0 @@
-"0","for (df in dfs){
-  type = unique(df$Type)
-  folder = paste0('CO2/',type)
-  dir.create(folder)
-  save(df,file=paste0(folder,'/type.csv'))
-}
-"
-"2","'CO2\Quebec' already exists"
