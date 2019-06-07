@@ -10,8 +10,8 @@ navbar:
       href: experiences.html
     - text: "Posters"
       href: posters.html
-      
+    
 output:
   html_document:
-    theme: flatly
+    theme: paper
     css: style.css
