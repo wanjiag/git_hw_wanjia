@@ -11,6 +11,9 @@ navbar:
     - text: "Posters"
       href: posters.html
     
+    
+
+
 output:
   html_document:
     theme: paper
