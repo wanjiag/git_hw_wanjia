@@ -3,7 +3,7 @@ title: "Resources"
 ---
 ***
 
-Here is a list of online resources that I've benefited a lot from or use on a daily basis.
+##### __Here is a list of online resources that I've benefited a lot from or use on a daily basis.__
 
 - Nipype: [Link](https://nipype.readthedocs.io/en/latest/)
 
